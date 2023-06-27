@@ -1,7 +1,7 @@
 # Belinda's Closet
 Brief description of the project with the inclusion of a mention about the android and web app aspect.
  
-## Brandon
+## Brandon D
  
 ## Table of Contents
 Links to the further sub-headings --> 
