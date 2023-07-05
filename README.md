@@ -8,18 +8,20 @@ Links to the further sub-headings -->
 - [Demos](#demos)
 - [Results](#results)
 - [Process](#process)
+- [License](#license)
 - [Wiki](#wiki)
 - [Team](#team-members)
 - [Acknowledgements](#acknowledgements)
  
 ## About The Project
-A little more detail about what/why: a summary of project with client, practicm, professor, students, main objectives for the Fall 2023 class in terms of what we consider success. 
- 
-Also to be mentioned is the team's starting point.
+A little more detail about what/why 
+- a summary of project with client, practicum, professor, students 
+- main objectives for the Fall 2023 class in terms of what we consider success
+- the team's starting point
  
 ### Demos
-Wirefram/demos of a few proposed UI layouts
-Offer up a few options.
+- Wirefram/demos of a few proposed UI layouts
+- Offer up a few options
  
 ## Results
 ### UI Design 
