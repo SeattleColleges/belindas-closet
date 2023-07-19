@@ -36,3 +36,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Story Points**
+Please estimate amount of story points. Each story point is defined as 30 minutes.
