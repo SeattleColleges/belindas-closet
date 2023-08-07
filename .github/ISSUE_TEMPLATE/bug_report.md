@@ -34,6 +34,9 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
+**Is this issue related to any other issues?**\
+If so, please add "This issue relates to issue #< related issue >." to link the issues together.
+
 **Additional context**
 Add any other context about the problem here.
 
