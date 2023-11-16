@@ -5,7 +5,7 @@
 # the repo. Unless a later match takes precedence,
 # @brinkbrink and @tinpham5614 will be requested for
 # review when someone opens a pull request.
-*       @brinkbrink @tinpham5614
+#*       @brinkbrink @tinpham5614
 
 # Teams can be specified as code owners as well. Teams should
 # be identified in the format @org/team-name. Teams must have
