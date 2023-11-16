@@ -3,7 +3,6 @@
 In the fall quarter of 2022 Belinda's Closet opened as a response to students' need for graduation day clothing. Belinda's Closet has since grown to also include professional clothing appropriate for interviews and work. The objective of this application is to give staff the ability to edit Belinda's Closet inventory as well as give the students the ability to search the inventory. This application will be available on both [desktop](https://github.com/SeattleColleges/belindas-closet-nextjs) and [mobile](https://github.com/SeattleColleges/belindas-closet-android) devices.
  
 ## Table of Contents
-Links to the further sub-headings --> 
 - [About The Project](#about-the-project)
 - [Demos](#demos)
 - [Results](#results)
