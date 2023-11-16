@@ -15,7 +15,7 @@ In the fall quarter of 2022 Belinda's Closet opened as a response to students' n
 ## About The Project
 A little more detail about what/why 
 - a summary of project with client, practicum, professor, students 
-- main objectives for the Fall 2023 class in terms of what we consider success
+- main objectives for the Fall 2023 class
 - the team's starting point
  
 ### Demos
