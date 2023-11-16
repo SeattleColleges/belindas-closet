@@ -20,35 +20,40 @@ A little more detail about what/why
 - the team's starting point
  
 ### Demos
-- Wirefram/demos of a few proposed UI layouts
-- Offer up a few options
+Coming soon!
  
 ## Results
 ### UI Design 
-display what client chose 
+Coming soon!
  
 ### Back End
-base structure
+Coming soon!
  
 ### UA
-process and security
+Coming soon!
  
 ### Database
-type/example
+[MongoDB](https://www.mongodb.com/)
  
 ### Hosting
 Where are we hosting and why
  
 ## Process
 ### Software Used
-What tools did we use on this phase of the project for both web and android?
+[Next.js](https://nextjs.org/) for our web application
+[Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTekXQtjhqJ8cl8GBV4Lmza-3twj7fpJ6BC73tf5vPeYJYChgA9M3JAaAlGTEALw_wcB&gclsrc=aw.ds) for our web application
+[Nest.js](https://nestjs.com/) for our server-side
+[Postman](https://www.postman.com/) for testing API endpoints
+
 
 ### Team Strategy
+Coming soon!
 
 ## Etc.
+Coming soon!
  
 ## License
-- Can others use this work?
+Coming soon!
  
 ## Wiki
 - Visit our [Wiki](https://github.com/SeattleColleges/belindas-closet/wiki) for more information about style and formatting.
