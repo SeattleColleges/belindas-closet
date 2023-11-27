@@ -56,7 +56,7 @@ Images coming soon!  *********ToDo
 Auth0? Do we need to talk about this here?
  
 ### Database
-We streamline our services for both the web and Android applications through a unified backend app, utilizing [MongoDB]([MongoDB](https://www.mongodb.com/))'s cloud services.
+We streamline our services for both the web and Android applications through a unified backend app, utilizing [MongoDB](https://www.mongodb.com/)'s cloud services.
  
 ### Hosting
 We plan to enhance and refine hosting information further as we approach the deployment phase.
