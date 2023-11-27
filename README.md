@@ -1,11 +1,13 @@
 # Introduction to Belinda's Closet
 Belinda’s Closet emerged in the fall of 2022 to address the growing need among students for suitable attire on their graduation day. In direct response to this need, the EDIC team (Equity, Diversity, Inclusion, and Community) at North Seattle College founded and established this crucial resource. The primary goal is to offer essential support to students within the broader Seattle Colleges system, ensuring they have access to professional clothing for interviews, employment, and graduation ceremonies. Emphasizing its not-for-profit nature, these clothing items come without financial burden to the student.
 
-Currently situated within the Equity & Welcome Center at North Seattle College (NSC), Belinda’s Closet is easily accessible during designated [open hours](https://northseattle.edu/edic/belindas-closet), underscoring its commitment to accessibility. Plans are in motion to extend this invaluable resource to every campus within the Seattle Colleges system.
+Currently situated within the Equity & Welcome Center at North Seattle College (NSC), Belinda’s Closet is easily shopable during designated [open hours](https://northseattle.edu/edic/belindas-closet), underscoring its commitment to accessibility. In fact, Belinda's has grown from a "closet" to a larger, need-based, retail-type space. Plans are in motion to extend this invaluable resource to every campus within the Seattle Colleges system.
 
-In a notable development, the Bachelor of Applied Science-Application Development department at NSC embraced Belinda’s Closet as a client in June 2023. The overarching objective has been to develop comprehensive web and Android applications that cater to the digital aspirations of our client and enhance the range of services offered.
+In a notable development, the Bachelor of Applied Science-Application Development department at NSC embraced Belinda’s Closet as a client in June 2023. The overarching objective has been to develop comprehensive web and Android applications that cater to the digital aspirations of our client and enhance the range of services offered to students.
 
-These frontend applications, complemented by a shared backend app supporting data and cloud services, are strategically designed. Their primary focus is to empower staff to efficiently manage and update Belinda’s Closet inventory, maintaining the organization's commitment to serving the community. The user interface (UI) aims not only to showcase available items in the store but also to seamlessly connect with the backend, facilitating smooth processing of incoming and outgoing inventory through MongoDB.
+These frontend applications, complemented by a shared backend app supporting data and connected to cloud services, are strategically designed. Their primary focus is to empower staff to efficiently manage and update Belinda’s Closet inventory, maintaining the organization's commitment to serving the community. The user interface (UI) aims not only to showcase available items in the store but also to seamlessly connect with the backend, facilitating smooth processing of incoming and outgoing inventory through MongoDB.
+
+Belinda's will begin offering additional services, as the development team continues to build out the tech to grow this vital service. 
  
 ## Table of Contents
 - [About The Project](#about-the-project)
@@ -54,7 +56,7 @@ Images coming soon!  *********ToDo
 Auth0? Do we need to talk about this here?
  
 ### Database
-For both the web and Android-based apps we use [MongoDB](https://www.mongodb.com/)'s cloud services. 
+We streamline our services for both the web and Android applications through a unified backend app, utilizing [MongoDB]([MongoDB](https://www.mongodb.com/))'s cloud services.
  
 ### Hosting
 We plan to enhance and refine hosting information further as we approach the deployment phase.
