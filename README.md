@@ -29,6 +29,8 @@ The [android-based](https://github.com/SeattleColleges/belindas-closet-android) 
 - [Nest.js](https://nestjs.com/) for the server-side backend application
 - [Postman](https://www.postman.com/) for testing API endpoints
 - [MongoDB](https://www.mongodb.com/) for collecting data
+- [UA]() for authenticating users *********ToDo (link)
+- [Hosting]() for availing these apps to the masses... TBD
  
 ## App MVP Progress
 As a student team primarily operating asynchronously, our journey commenced in late June '23, working diligently under a grant-approved program at NSC for the initial 100 days. Throughout the summer, we not only made significant strides in our project but also forged strong team bonds, marking our first collaborative experience. Collectively, we reached the milestone of MVP1 by November 3, 2023.
@@ -45,21 +47,9 @@ As a student team primarily operating asynchronously, our journey commenced in l
 	- Pre MVP2  *********ToDo (link)
 		- Web (The work on this application will continue April of 2024)
 		- [Mobile]()
-  - MVP2
-     - Web (Coming soon!)
-     - Mobile (Coming soon!)
-
-### UI Design 
-Images coming soon!  *********ToDo
- 
-### UA
-Auth0? Do we need to talk about this here?
- 
-### Database
-We streamline our services for both the web and Android applications through a unified backend app, utilizing [MongoDB](https://www.mongodb.com/)'s cloud services.
- 
-### Hosting
-We plan to enhance and refine hosting information further as we approach the deployment phase.
+	- MVP2
+     		- Web (Coming soon!)
+     		- Mobile (Coming soon!)
  
 ## License
 Coming soon! *********ToDo (need to implement)
