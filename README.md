@@ -23,6 +23,8 @@ The [android-based](https://github.com/SeattleColleges/belindas-closet-android) 
 
 `NestJs` was selected for [backend](https://nestjs.com/) services. 
 
+Google Cloud powers our storage and MongoDB hosts our database.
+
 ### Software Used
 - [Next.js](https://nextjs.org/) for the web application
 - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTekXQtjhqJ8cl8GBV4Lmza-3twj7fpJ6BC73tf5vPeYJYChgA9M3JAaAlGTEALw_wcB&gclsrc=aw.ds) for the android application
@@ -51,16 +53,24 @@ As a student team primarily operating asynchronously, our journey commenced in l
      		- Web (Coming soon!)
      		- Mobile (Coming soon!)
  
-## License
-Coming soon! *********ToDo (need to implement)
- 
 ## Wiki
 - Visit our Wiki for more information on topics that include:
-  - [Style]()  *********ToDo (link)
-  - [Formatting]()  *********ToDo (link)
-  - [The team]()  *********ToDo (link)
+  - [mobile app](https://github.com/SeattleColleges/belindas-closet-android/wiki)
+  - [web app](https://github.com/SeattleColleges/belindas-closet-nextjs/wiki)
+  - [backend app](https://github.com/SeattleColleges/belindas-closet-nestjs/wiki)
  
 ## Acknowledgements
 - Thanks to our professor BC Ko for his leadership, knowledge, and patience.
 - Thanks to Belinda at Belinda's Closet and the NSC EDIC team for your endless passion to serve students.
-- Thank to [Miro](), [Smartsheet](), [MongoDB](_____), [Postman](_____) for student access to your product.  *********ToDo (do we want this?)
+- Thank to [Miro](), [Smartsheet](), [MongoDB](_____), [Postman](_____) for student access to your product.  *********ToDo (do we want this?) 
+ 
+## License
+MIT License
+
+Copyright (c) 2023 North Seattle College Application Development Department
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
