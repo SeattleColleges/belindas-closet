@@ -12,9 +12,9 @@ Belinda's will begin offering additional services, as the development team conti
 ## Table of Contents
 - [About The Project](#about-the-project)
 - [App MVP Progress](#app-mvp-progress)
-- [License](#license)
 - [Wiki](#wiki)
 - [Acknowledgements](#acknowledgements)
+- [License](#license)
  
 ## About The Project
 Benlinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes `NextJs`.
