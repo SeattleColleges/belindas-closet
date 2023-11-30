@@ -11,21 +11,23 @@ Belinda's will begin offering additional services, as the development team conti
  
 ## Table of Contents
 - [About The Project](#about-the-project)
-- [App MVP Progress](#app-mvp-progress)
+- [MVP Progress](#mvp-progress)
 - [Wiki](#wiki)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
  
 ## About The Project
-Benlinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes `NextJs`.
+- Benlinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes `NextJs`.
+ 
+	[![2.png](https://i.postimg.cc/yNMRJ9h4/2.png)](https://postimg.cc/94B0KDNJ)
 
-The [android-based](https://github.com/SeattleColleges/belindas-closet-android) frontend was developed using `Koitlin` within `Android Studio`.
+- The [android-based](https://github.com/SeattleColleges/belindas-closet-android) frontend was developed using `Koitlin` within `Android Studio`.
 
-`NestJs` was selected for [backend](https://nestjs.com/) services. 
+- `NestJs` was selected for [backend](https://nestjs.com/) services. 
 
-`Google Cloud` powers our storage and `MongoDB` hosts our database.
+- `Google Cloud` powers our storage and `MongoDB` hosts our database.
 
-### Software Used
+### Software & Tools Used
 - [Next.js](https://nextjs.org/): for the web application
 - [Android Studio](https://developer.android.com/studio?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTekXQtjhqJ8cl8GBV4Lmza-3twj7fpJ6BC73tf5vPeYJYChgA9M3JAaAlGTEALw_wcB&gclsrc=aw.ds): for the android application
 - [Nest.js](https://nestjs.com/): for the server-side backend application
