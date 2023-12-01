@@ -23,6 +23,8 @@ Belinda's will begin offering additional services, as the development team conti
 
 - The [android-based](https://github.com/SeattleColleges/belindas-closet-android) frontend was developed using `Koitlin` within `Android Studio`.
 
+	[![2.png](https://i.postimg.cc/mkYCxq3h/2.png)](https://postimg.cc/SYKJCgvp)
+
 - `NestJs` was selected for [backend](https://nestjs.com/) services. 
 
 - `Google Cloud` powers our storage and `MongoDB` hosts our database.
@@ -38,17 +40,17 @@ Belinda's will begin offering additional services, as the development team conti
 - Hosting: for availing these apps to the masses... TBD
  
 ## MVP Progress
-As a student team primarily operating asynchronously, our journey commenced in late June '23, working diligently under a grant-approved program at NSC for the initial 100 days. Throughout the summer, we not only made significant strides in our project but also forged strong team bonds, marking our first collaborative experience. Collectively, we reached the milestone of MVP1 by November 3, 2023.
+As a student team primarily operating asynchronously, our journey commenced in late June '23, working diligently under a grant-approved program at NSC for the initial 100 days. Throughout the summer, we not only made significant strides in our project but also forged strong team bonds, marking our first collaborative experience. Collectively, we reached the milestone of MVP1 by November 3, 2023 within the mobile app.
 - The following video links demonstrate our progress along the way:
 	- Pre MVP1
-		- [Web]() ******* ToDo: Add the YouTube link
+		- [Web](https://youtu.be/3F6EpmJhGb8) 
 		- [Mobile](https://www.youtube.com/shorts/M5jzwP3tuek)
 	- MVP1
-		- Web (The work on this application will continue April of 2024)
+		- Web (The work on this application will continue April of 2024.)
 		- [Mobile](https://www.youtube.com/watch?v=zAuxXCaYSyw)
 	- Pre MVP2
-		- Web (The work on this application will continue April of 2024)
-		- Mobile (Coming soon)
+		- Web (The work on this application will continue April of 2024.)
+		- Mobile (Coming soon!)
 	- MVP2
 		- Web (Coming soon!)
    		- Mobile (Coming soon!)
@@ -61,8 +63,8 @@ As a student team primarily operating asynchronously, our journey commenced in l
  
 ## Acknowledgements
 - Thanks to our professor BC Ko for his leadership, knowledge, and patience.
-- Thanks to Belinda at Belinda's Closet and the NSC EDIC team for your endless passion to serve students.
-- Thanks to [Miro](https://miro.com/app/dashboard/), [Smartsheet](https://www.smartsheet.com/welcome-customers-home), [Notion](https://www.notion.so/product?utm_source=google&utm_campaign=2075789710&utm_medium=80211061601&utm_content=500427479647&utm_term=notion&targetid=kwd-312974742&gad_source=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_kCuNK8I-F-4u_Mj1ClGopPfB_VlD-Ris4aRIu9ospGViBIqqjhXqYaAgWpEALw_wcB) for student licensing of your product. 
+- Thanks to Belinda at Belinda's Closet and the NSC EDIC team for your endless passion in serving students.
+- Thanks to [Miro](https://miro.com/app/dashboard/), [Smartsheet](https://www.smartsheet.com/welcome-customers-home), and [Notion](https://www.notion.so/product?utm_source=google&utm_campaign=2075789710&utm_medium=80211061601&utm_content=500427479647&utm_term=notion&targetid=kwd-312974742&gad_source=1&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_kCuNK8I-F-4u_Mj1ClGopPfB_VlD-Ris4aRIu9ospGViBIqqjhXqYaAgWpEALw_wcB) for student licensing of your product. 
  
 ## License
 Copyright (c) 2023 North Seattle College Application Development Department
