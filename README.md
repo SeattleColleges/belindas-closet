@@ -17,7 +17,7 @@ Belinda's will begin offering additional services, as the development team conti
 - [License](#license)
  
 ## About The Project
-- Benlinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes `NextJs`.
+- Belinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes `NextJs`.
  
 	[![2.png](https://i.postimg.cc/yNMRJ9h4/2.png)](https://postimg.cc/94B0KDNJ)
 
