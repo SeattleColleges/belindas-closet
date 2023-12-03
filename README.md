@@ -17,15 +17,15 @@ Belinda's will begin offering additional services, as the development team conti
 - [License](#license)
  
 ## About The Project
-- Belinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes `NextJs`.
+- Belinda's [web-based](https://github.com/SeattleColleges/belindas-closet-nextjs) frontend utilizes Typescript via `NextJs`.
  
-	[![2.png](https://i.postimg.cc/yNMRJ9h4/2.png)](https://postimg.cc/94B0KDNJ)
+	[![2.png](https://i.postimg.cc/mkYCxq3h/2.png)](https://postimg.cc/SYKJCgvp)
 
 - The [android-based](https://github.com/SeattleColleges/belindas-closet-android) frontend was developed using `Koitlin` within `Android Studio`.
 
-	[![2.png](https://i.postimg.cc/mkYCxq3h/2.png)](https://postimg.cc/SYKJCgvp)
+	[![2.png](https://i.postimg.cc/yNMRJ9h4/2.png)](https://postimg.cc/94B0KDNJ)
 
-- `NestJs` was selected for [backend](https://nestjs.com/) services. 
+- `NestJs` was selected for [backend](https://nestjs.com/) services also using Typescript. 
 
 - `Google Cloud` powers our storage and `MongoDB` hosts our database.
 
