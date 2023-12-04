@@ -21,7 +21,7 @@ Belinda's will begin offering additional services, as the development team conti
  
 	[![2.png](https://i.postimg.cc/mkYCxq3h/2.png)](https://postimg.cc/SYKJCgvp)
 
-- The [android-based](https://github.com/SeattleColleges/belindas-closet-android) frontend was developed using `Koitlin` within `Android Studio`.
+- The [android-based](https://github.com/SeattleColleges/belindas-closet-android) frontend was developed using `Kotlin` within `Android Studio`.
 
 	[![2.png](https://i.postimg.cc/yNMRJ9h4/2.png)](https://postimg.cc/94B0KDNJ)
 
